@@ -1,0 +1,25 @@
+<!-- убирает интерфейс для скрина -->
+<!-- <set var="interface_hidden" value="false" />
+
+<action name="toggle_clean_screen">
+    if(interface_hidden == 'false',
+        set(interface_hidden, 'true');
+        for(set(i,0), i LT layer.count, inc(i), set(layer[get(i)].visible, false); );
+        for(set(i,0), i LT hotspot.count, inc(i), set(hotspot[get(i)].visible, false); );
+        set(layer[screenshot_btn].visible, true);
+        set(layer[screenshot_btn].html, '[ Вернуть интерфейс ]');
+        set(layer[screenshot_btn].padding, '5 10');
+        set(layer[screenshot_btn].x, 5);
+        set(layer[screenshot_btn].y, 5);
+    ,
+        set(interface_hidden, 'false');
+        for(set(i,0), i LT layer.count, inc(i), set(layer[get(i)].visible, true); );
+        for(set(i,0), i LT hotspot.count, inc(i), set(hotspot[get(i)].visible, true); );
+        set(layer[screenshot_btn].html, 'Убрать весь интерфейс');
+        set(layer[screenshot_btn].padding, '10 15');
+        set(layer[screenshot_btn].x, 20);
+        set(layer[screenshot_btn].y, 20);
+    );
+</action>
+
+<layer name="screenshot_btn"  type="text"  html="Убрать весь интерфейс"  keep="true" align="lefttop" x="20" y="20"  padding="10 15"  bg="true" bgcolor="0x000000" bgalpha="0.8" bgroundedge="5" zorder="99999" css="color:#FFFFFF; font-size:14px; font-family:Arial; font-weight:bold; cursor:pointer;" onclick="toggle_clean_screen();"  /> -->
