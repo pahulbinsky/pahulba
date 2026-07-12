@@ -1,0 +1,8 @@
+{ "manifest_version": 3,
+  "name": "Clear browser cache",
+  "version": "1.2",
+  "description": "Кэш в очко!",
+  "permissions": ["browsingData","tabs"], // 
+  "action": {},
+  "icons":  {"128": "icn.png"},
+  "background": {"service_worker": "background.js"}}
