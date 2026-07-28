@@ -6,3 +6,5 @@ This is where I’ll be dropping my ideas and concepts—feel free to use them, 
 UPD_2026-07-12: Just launched my custom Chrome cache cleaner. Existing tools couldn't guarantee even an 80% clear rate, so I built my own solution.
 
 UPD_2026-07-25: Аdded some cool features for Arduino. If you have any questions, text me on TG.
+
+UPD_2026-07-28:downloaded the config file for the Xbox Freeboot firmware
