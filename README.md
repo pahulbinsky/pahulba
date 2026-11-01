@@ -10,3 +10,5 @@ UPD_2026-07-25: Аdded some cool features for Arduino. If you have any questions
 UPD_2026-07-28:downloaded the config file for the Xbox Freeboot firmware
 
 UPD_2026-10-24:downloaded .php file for your localhost
+
+UPD_2026-11-01:added script for parsing data from the weather tower website in my hometown has been uploaded; an HTML page will be added later
