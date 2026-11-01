@@ -22,3 +22,6 @@ UPD_2026-10-24:*localhost\index.php-downloaded .php file for your localhost
 
 UPD_2026-11-01:*obninsk-meteo\server.py-added script for parsing data from the weather tower website in my hometown has been uploaded; an HTML page will be added later
 //*obninsk-meteo\server.py-Загрузил скрипт для парсинга данных с сайта метеовышки в моем родном городе, позже будет добавлена и html страница
+
+Tidied up and organized everything into folders
+//Прибрался и раскидал все по папкам
